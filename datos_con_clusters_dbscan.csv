@@ -1,0 +1,29 @@
+﻿Numero_cuenta,Semestre,Carrera,Situacion_economica,Fuente_ingresos,Sentimiento_financiero,Dias_ejercicio,Actividad_recreativa,Horas_sueno,Edad,Cluster_DBSCAN
+423122349,7.0,MAC,Regular,Trabajo,Preocupación,5,Sí,7,21,-1
+422055662,7.0,MAC,Buena,Familia,Tranquilidad,0,No,9,22,-1
+318331674,7.0,MAC,Regular,Familia y Trabajo,Ansiedad,5,Sí,5,23,-1
+421101429,7.0,MAC,Regular,Familia,Ansiedad,3,Sí,6,23,-1
+423086812,7.0,MAC,Buena,Familia,Ansiedad,4,Sí,6,21,-1
+423058831,7.0,MAC,Buena,Familia y Beca,Indiferencia,0,Sí,5,20,-1
+422091501,7.0,MAC,Buena,Familia,Preocupación,0,No,7,22,-1
+320584622,7.0,MAC,Buena,Familia,Ansiedad,6,No,6,21,-1
+422042730,7.0,MAC,Mala,Familia,Ansiedad,5,Sí,8,22,-1
+423072275,7.0,MAC,Regular,Familia,Ansiedad,0,Sí,7,21,-1
+320241697,7.0,MAC,Regular,Beca,Indiferencia,0,Sí,6,21,-1
+320212619,7.0,MAC,Regular,Beca,Preocupación,1,No,6,20,-1
+319132948,7.0,MAC,Buena,Familia,Ansiedad,0,Sí,8,22,-1
+317259913,5.0,MAC,Regular,Familia y Trabajo,Mixto,4,No,4,24,-1
+319249473,7.0,MAC,Regular,Familia y Beca,Ansiedad,3,No,5,22,-1
+423112418,7.0,MAC,Buena,Familia,Preocupación,2,Sí,6,21,-1
+319295717,9.0,MAC,Mala,Otros,Indiferencia,0,Sí,8,21,-1
+422128685,9.0,MAC,Regular,Familia,Otros,2,Sí,4,23,-1
+423008623,7.0,MAC,Buena,Familia,Ansiedad,3,Sí,6,25,-1
+320137833,7.0,MAC,Regular,Familia y Beca,Ansiedad,2,No,7,20,-1
+320246324,7.0,MAC,Regular,Familia,Preocupación,2,Sí,6,21,-1
+320200320,7.0,MAC,Buena,Familia,Preocupación,5,Sí,6,21,-1
+423093814,7.0,MAC,Regular,Familia,Preocupación,0,No,6,21,-1
+319688531,7.0,MAC,Buena,Familia y Trabajo,Ansiedad,0,Sí,5,22,-1
+422044459,,MAC,Mala,Familia y Trabajo,Ansiedad,0,Sí,5,23,-1
+423096303,7.0,MAC,Mala,Familia y Trabajo,Ansiedad,0,No,6,21,-1
+423076967,7.0,MAC,Regular,Familia,Ansiedad,3,Sí,5,22,-1
+421119143,7.0,MAC,Buena,Familia,Preocupación,0,Sí,7,24,-1

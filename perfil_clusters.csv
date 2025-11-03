@@ -1,0 +1,8 @@
+﻿Cluster_KMeans,Nivel_Ansiedad,Horas_Sueño,Promedio_Escolar,Situacion_Economica,Sentimiento_Financiero,Gasto_Principal,N_Estudiantes
+0,Leve,6.833333333333333,8.555,Buena,Ansiedad/Preocupación,Comida,6
+1,Ninguno,6.6,8.162,Otra,Ansiedad/Preocupación,Comida,5
+2,Leve,7.25,8.18,Otra,Otro,Otros,4
+3,Ninguno,4.0,7.55,Regular,Otro,Otros,2
+4,Ninguno,6.0,9.106666666666667,Regular,Otro,Transporte,3
+5,Leve,5.666666666666667,9.256666666666666,Buena,Otro,Otros,3
+6,Leve,5.2,7.9799999999999995,Buena,Ansiedad/Preocupación,Transporte,5

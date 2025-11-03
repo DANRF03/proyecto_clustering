@@ -1,0 +1,7 @@
+﻿Cluster_KMeans,Situacion_economica,Fuente_ingresos,Sentimiento_financiero,Dias_ejercicio,Horas_sueno,Edad,N_Estudiantes
+0,Regular,Familia,Preocupación,0.83,6.33,20.67,6
+1,Regular,Familia,Ansiedad,2.88,5.0,23.12,8
+2,Buena,Familia,Preocupación,0.4,7.4,22.2,5
+3,Buena,Familia y Trabajo,Ansiedad,0.0,6.0,21.0,4
+4,Regular,Trabajo,Preocupación,5.0,7.0,21.0,1
+5,Buena,Familia,Ansiedad,5.0,6.5,21.25,4
